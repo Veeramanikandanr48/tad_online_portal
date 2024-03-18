@@ -4,7 +4,7 @@ import {CDBBtn, CDBIcon } from 'cdbreact';
 const Footer = () => {
   return (
       <div
-        className="d-flex justify-content-between align-items-center mx-auto py-4 flex-wrap"
+        className="d-flex justify-content-between bg-dark w-100 text-white align-items-center mx-auto p-4 flex-wrap"
         style={{ width: '80%' }}
       >
         <div>
